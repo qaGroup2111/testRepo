@@ -1,0 +1,17 @@
+{
+	"info": {
+		"_postman_id": "47acf9e9-680b-42dd-96f6-d7ef3a6f2e5b",
+		"name": "alexm_collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "reqres_alexm",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
